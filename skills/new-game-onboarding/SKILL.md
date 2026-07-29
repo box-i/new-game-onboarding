@@ -1,5 +1,6 @@
 ---
 name: new-game-onboarding
+version: 1.3.0
 description: 游戏平台PM新游接入全流程管理。覆盖从项目首次对接→版署审核→对外测试→正式上线的完整工作流，自动生成跟进文档和任务清单。
 type: slash-command
 tags:
